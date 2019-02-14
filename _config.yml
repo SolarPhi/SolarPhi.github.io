@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 虫壳 | BY Blog
+title: 探索良质之地
+SEOTitle: 虫壳
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "SP, SP Blog, 虫壳"
+email: tel17321315891@gmail.com
+description: ""
+keyword: "SolarPhi, 虫壳"
 url: "https://SolarPhi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
@@ -13,3 +13,5 @@ sidebar-about-description: "幸福不过是一个接着一个的欲望"
 # SNS settings
 RSS: true
 zhihu_username: 汤博未
+github_username: SolarPhi
+telegram_username: @SolarPhi
